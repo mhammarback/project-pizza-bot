@@ -3,13 +3,20 @@
 This project was made during the Technigo Bootcamp.
 The purpose was to practice Javascript functions while using pair-programming. 
 
-## The problem
+## The project
 
-We started with the iterations and at iteration number 6 we had some issues. We couldn't get the functions to work together. We got help from our team members to be able to continue the project.  
+- We used pair-programming and worked remote.
+- We started with making all the functions work 
+- Added some basic design 
+- We are using prompt to get the data from the costumer and then we display
+  the final order on the main page with details such as how many pizzas you
+  have orderd, which sort and how long it will take. 
+- The next step for this project would be to create a form instead of using prompt. 
 
-If we had more time we would have added a form. 
-
-
+## TECH 
+- JAVASCRIPT
+- CSS
+- HTML 
 
 ## View it live
 
